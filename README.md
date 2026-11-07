@@ -2,8 +2,8 @@
 <summary> </summary>
  <div align="center">
 
-[= ࣪𖤐](https://www.youtube.com/watch?v=ZOYiJbQPcPo&list=RDZOYiJbQPcPo&start_radio=1)
+[= ࣪𖤐](https://www.youtube.com/watch?v=y22X1d7fRAg&list=RDy22X1d7fRAg&start_radio=1)
 
 </div>
 
- <img width="736" height="919" alt="_ (12)" src="https://github.com/user-attachments/assets/b9b2e409-df5a-4541-bdc6-c5e75a2440a7" />
+<img width="735" height="413" alt="Texto del párrafo" src="https://github.com/user-attachments/assets/6df43534-6e0c-4fea-a8b7-1e5113d9a7a6" />
